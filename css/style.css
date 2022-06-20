@@ -84,6 +84,7 @@ a {
 
 .left-wrapper {
   position: relative;
+  z-index: 0;
 }
 .left-wrapper img {
   position: relative;
