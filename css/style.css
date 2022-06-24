@@ -234,6 +234,7 @@ a {
 
 .second-section {
   min-height: 700px;
+  overflow: hidden;
 }
 .second-section__container {
   padding-top: 32px;
