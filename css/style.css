@@ -778,6 +778,7 @@ a {
   }
   .icons-item:last-child {
     flex-grow: 0;
+    padding-right: 6px;
   }
 
   .third-section {
@@ -788,5 +789,9 @@ a {
 
   .last__btn {
     padding: 0;
+  }
+
+  .third-section__right-title {
+    z-index: 40;
   }
 }/*# sourceMappingURL=style.css.map */
