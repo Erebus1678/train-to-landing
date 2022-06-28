@@ -781,7 +781,12 @@ a {
   }
 
   .third-section {
+    z-index: 40;
     padding: auto;
     min-height: 530px;
+  }
+
+  .last__btn {
+    padding: 0;
   }
 }/*# sourceMappingURL=style.css.map */
