@@ -17,6 +17,11 @@
 html {
   font-family: "MontserratT";
   font-weight: regular;
+  scroll-behavior: smooth;
+}
+
+.scroll {
+  scroll-behavior: smooth;
 }
 
 a {
